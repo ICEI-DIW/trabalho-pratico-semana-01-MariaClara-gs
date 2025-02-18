@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Maria Clara Galvão Soares
+Matricula: 880121
 
 ## Tela de inspeção com navegador
-
+<img src="Olhar digital - arquivos - print1.png">
+<img src="Olhar digital - arquivos - print2.png">
 
 ## Tela de projeto no Replit
-
+<img src="Replit - Site HTML - Hello World .png">
+<img src="Replit - Site HTML - Hello World - Página.png">
